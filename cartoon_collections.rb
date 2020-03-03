@@ -16,7 +16,7 @@ def long_planeteer_calls(array)
   return false 
 end 
     
-#array = ['cucumber','cheddar','cookies']
+
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   array.each do |snack|
